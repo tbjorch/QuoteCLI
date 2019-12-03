@@ -6,7 +6,7 @@ quote_map = {
     "love": "Love Quote of the Day",
     "art": "Art Quote of the Day",
     "nature": "Nature Quote of the Day",
-    "funny": "Funny Quote of the Day",
+    "funny": "Funny Quote Of the Day",
 }
 
 
